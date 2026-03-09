@@ -15,5 +15,5 @@ A Python project demonstrating a command injection vulnerability and its secure 
 - CodeAlpha_Secure_Coding_Report.pdf
 
 ### Author
-Nivia Sherin
+Nivia Sherin V
 Cyber Security Intern
