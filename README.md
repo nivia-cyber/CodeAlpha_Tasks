@@ -9,7 +9,7 @@ A presentation explaining phishing attacks, how to identify phishing emails and 
 A Python project demonstrating a command injection vulnerability and its secure implementation using secure coding practices.
 
 ### Files Included
-- Phishing_Awareness_Training_CodeAlpha.pptx
+- CodeAlpha_Phishing_Awareness_Training.pptx
 - vulnerable_app.py
 - secure_app.py
 - CodeAlpha_Secure_Coding_Report.pdf
